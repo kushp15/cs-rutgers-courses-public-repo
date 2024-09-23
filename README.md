@@ -9,4 +9,5 @@
 - **Course Name:** [CS462] Deep Learning
 - **Course Name:** [CS440] Intro to Artifical Intelligence
 
-- For any questions or assitance on the above courses. Just DM!
+
+# For any questions or assitance on the above courses. Just DM!
